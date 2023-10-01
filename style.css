@@ -1,0 +1,42 @@
+h1 {
+    border: 2px solid #0000FF;
+    text-align: center;
+    color: #000066;
+}
+
+hr {
+    border-color: #0000FF;
+}
+
+img {
+    margin: 20px auto;
+    display: block;
+    border: 2px solid #990099;
+}
+
+p {
+    text-align: justify;
+}
+
+.quote-table {
+    border: 1px solid #000;
+    width: 100%;
+    text-align: center;
+}
+
+.quote-table td {
+    padding: 10px;
+}
+
+.quote-table tr:hover {
+    background-color: #81D4FA;
+}
+
+h2 {
+    text-align: center;
+    color: #6600CC;
+}
+
+body {
+    background-color: #EBF5FB;
+}
